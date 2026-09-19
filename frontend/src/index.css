@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --c-bg: #0b1020;
+  --c-surface: #131a2e;
+  --c-border: #273148;
+  --c-text: #e6e9f0;
+  --c-muted: #8b93a7;
+  --c-primary: #4f6bed; /* solid indigo - NOT a purple/pink gradient */
+  --c-primary-fg: #ffffff;
+  --c-accent: #2dd4bf; /* teal accent */
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--c-bg);
+  color: var(--c-text);
+  font-family: Inter, "Noto Sans SC", system-ui, -apple-system, sans-serif;
+}
