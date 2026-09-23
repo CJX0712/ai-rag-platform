@@ -1,5 +1,11 @@
 # AI RAG 知识问答平台
 
+<p align="center">
+  <a href="https://github.com/CJX0712/ai-rag-platform-9jkaa/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/ai-rag-platform-9jkaa/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/ai-rag-platform-9jkaa/releases"><img src="https://img.shields.io/github/v/release/CJX0712/ai-rag-platform-9jkaa?sort=semver" alt="release"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 > 端到端可运行的检索增强生成（RAG）系统：文档摄取 → 向量化 → 检索 → LLM 生成流式回答。
 > 复用业界领先开源成果（FastAPI / Qdrant / Ollama / React），模块按单一职责划分，可独立验证、可协同组成完整链路。
 
