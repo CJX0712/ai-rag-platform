@@ -1,8 +1,8 @@
 # AI RAG 知识问答平台
 
 <p align="center">
-  <a href="https://github.com/CJX0712/ai-rag-platform-9jkaa/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/ai-rag-platform-9jkaa/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
-  <a href="https://github.com/CJX0712/ai-rag-platform-9jkaa/releases"><img src="https://img.shields.io/github/v/release/CJX0712/ai-rag-platform-9jkaa?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/ai-rag-platform/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/ai-rag-platform/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/ai-rag-platform/releases"><img src="https://img.shields.io/github/v/release/CJX0712/ai-rag-platform?sort=semver" alt="release"></a>
   <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
 </p>
 
