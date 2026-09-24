@@ -1,15 +1,15 @@
 # AI RAG Platform - backend dependency lock
 # Python 3.11+. Pinned for reproducible builds. Verified 2026-09-19.
-fastapi==0.115.6
-uvicorn[standard]==0.34.0
-pydantic==2.10.4
-pydantic-settings==2.7.0
-qdrant-client==1.12.0
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+pydantic==2.13.5
+pydantic-settings==2.15.0
+qdrant-client==1.19.1
 sse-starlette==2.2.1
 httpx==0.28.1
-python-multipart==0.0.20
+python-multipart==0.0.32
 pypdf==5.1.0
-python-dotenv==1.0.1
+python-dotenv==1.2.3
 # --- test / dev ---
 pytest==8.3.4
 pytest-asyncio==0.25.0
